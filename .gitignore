@@ -1,0 +1,48 @@
+# Environment variables — NEVER commit these
+.env
+*.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+.venv/
+venv/
+env/
+.eggs/
+
+# Data files (may be large/sensitive)
+backend/data/*.pdf
+# Keep sample data
+!backend/data/sample_medical_data.txt
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Node (for Vercel deployment tools)
+node_modules/
+.vercel/
+
+# Pinecone / API cache
+.cache/

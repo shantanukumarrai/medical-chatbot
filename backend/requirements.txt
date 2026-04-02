@@ -1,0 +1,36 @@
+# ──────────────────────────────────────────
+# Medical Chatbot - Python Dependencies
+# ──────────────────────────────────────────
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask==3.0.3
+flask-cors==4.0.1
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# LangChain Core
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-openai==0.1.25
+langchain-pinecone==0.1.3
+
+# OpenAI SDK
+openai==1.44.0
+
+# Pinecone Vector Database
+pinecone-client>=5.0.0
+
+# PDF Loading
+pypdf==4.3.1
+unstructured==0.15.7
+
+# Text Processing
+tiktoken==0.7.0
+
+# Production WSGI Server (for Render deployment)
+gunicorn==23.0.0
+
+# Utilities
+numpy==1.26.4

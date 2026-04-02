@@ -1,0 +1,142 @@
+MEDICAL INFORMATION REFERENCE GUIDE
+====================================
+This file is for testing the MediBot knowledge base.
+Replace this with real medical PDFs for production use.
+
+DIABETES
+--------
+Diabetes mellitus is a group of metabolic disorders characterized by high blood sugar levels.
+
+Type 1 Diabetes:
+- Autoimmune condition where the pancreas produces little or no insulin
+- Usually diagnosed in children and young adults
+- Requires daily insulin injections
+- Symptoms: frequent urination, excessive thirst, unintended weight loss, fatigue
+- Management: insulin therapy, blood sugar monitoring, healthy diet, regular exercise
+
+Type 2 Diabetes:
+- Most common form (90-95% of cases)
+- Cells don't respond normally to insulin (insulin resistance)
+- Risk factors: obesity, sedentary lifestyle, family history, age over 45
+- Symptoms: increased thirst, frequent urination, blurred vision, slow-healing sores
+- Management: lifestyle changes, oral medications (metformin), sometimes insulin
+- Complications: heart disease, nerve damage, kidney disease, eye damage
+
+Prediabetes:
+- Blood sugar is higher than normal but not high enough for type 2 diabetes diagnosis
+- Fasting blood sugar: 100-125 mg/dL
+- HbA1c: 5.7% - 6.4%
+- Reversible with lifestyle changes
+
+HYPERTENSION (HIGH BLOOD PRESSURE)
+------------------------------------
+Normal blood pressure: less than 120/80 mmHg
+Elevated: 120-129 / less than 80 mmHg
+Stage 1 hypertension: 130-139 / 80-89 mmHg
+Stage 2 hypertension: 140 or higher / 90 or higher mmHg
+Hypertensive crisis: over 180 / over 120 mmHg
+
+Causes:
+- Primary (essential) hypertension: no identifiable cause, develops gradually
+- Secondary hypertension: underlying condition (kidney disease, thyroid problems, sleep apnea)
+
+Risk Factors:
+- Age (risk increases with age)
+- Family history
+- Being overweight or obese
+- Physical inactivity
+- High-sodium diet
+- Smoking
+- Stress
+- Excessive alcohol consumption
+
+Symptoms:
+- Often called the "silent killer" — most people have no symptoms
+- Severe cases: headaches, shortness of breath, nosebleeds
+
+Treatment:
+- Lifestyle changes: DASH diet, regular exercise, weight reduction, limiting alcohol
+- Medications: ACE inhibitors, ARBs, calcium channel blockers, diuretics, beta-blockers
+- Regular monitoring of blood pressure
+
+Complications:
+- Heart attack and heart disease
+- Stroke
+- Kidney damage
+- Eye damage (retinopathy)
+- Peripheral artery disease
+
+COMMON COLD VS INFLUENZA
+--------------------------
+Common Cold:
+- Caused by rhinoviruses (most common) and other viruses
+- Symptoms: runny nose, sore throat, cough, congestion, mild fever (rare in adults)
+- Onset: gradual
+- Duration: 7-10 days
+- Treatment: rest, fluids, over-the-counter symptom relief
+- Serious complications: rare
+
+Influenza (Flu):
+- Caused by influenza A or B viruses
+- Symptoms: fever (100-104°F), severe muscle aches, chills, headache, fatigue, dry cough
+- Onset: sudden
+- Duration: 1-2 weeks
+- Treatment: rest, fluids, antiviral medications (oseltamivir/Tamiflu) if caught early
+- Prevention: annual flu vaccine strongly recommended
+- Serious complications: pneumonia, hospitalization (risk higher in elderly, young children, immunocompromised)
+
+VACCINES AND IMMUNITY
+----------------------
+How vaccines work:
+1. Introduce a weakened, killed, or partial form of a pathogen (or its genetic instructions)
+2. Immune system recognizes it as foreign and mounts a response
+3. Body produces antibodies and memory cells
+4. When exposed to the real pathogen later, the immune system responds quickly
+5. This prevents or reduces the severity of illness
+
+Types of vaccines:
+- Live-attenuated: weakened pathogen (MMR, chickenpox, yellow fever)
+- Inactivated: killed pathogen (flu shot, polio IPV, hepatitis A)
+- Subunit/protein: part of the pathogen (hepatitis B, whooping cough)
+- mRNA vaccines: instructions to make a protein (COVID-19 Pfizer, Moderna)
+- Viral vector: uses a modified virus to deliver instructions (COVID-19 J&J)
+
+Herd immunity:
+- When enough of a population is immune to stop disease spread
+- Protects those who cannot be vaccinated
+- Threshold varies by disease (measles requires ~95%, polio ~80-85%)
+
+MENTAL HEALTH
+--------------
+Anxiety Disorders:
+- Most common mental health condition
+- Types: generalized anxiety disorder (GAD), panic disorder, social anxiety, phobias
+- Symptoms: excessive worry, restlessness, fatigue, difficulty concentrating, sleep problems
+- Treatment: cognitive behavioral therapy (CBT), medications (SSRIs, SNRIs, benzodiazepines)
+
+Depression:
+- Major depressive disorder characterized by persistent sadness and loss of interest
+- Symptoms: persistent sadness, loss of interest, changes in appetite/sleep, fatigue, difficulty concentrating, feelings of worthlessness, thoughts of death
+- Treatment: psychotherapy (CBT), antidepressants (SSRIs, SNRIs), lifestyle changes
+- Note: always seek professional help — depression is treatable
+
+Important: If you or someone you know is in crisis or experiencing suicidal thoughts, please contact:
+- National Suicide Prevention Lifeline (US): 988 or 1-800-273-8255
+- Crisis Text Line: Text HOME to 741741
+- International Association for Suicide Prevention: https://www.iasp.info/resources/Crisis_Centres/
+
+MEDICATION BASICS
+------------------
+Common medication classes:
+- Antibiotics: treat bacterial infections (NOT viral infections like colds/flu)
+- Analgesics: pain relievers (acetaminophen, ibuprofen, aspirin)
+- Antihistamines: treat allergies (cetirizine, loratadine, diphenhydramine)
+- Statins: lower cholesterol (atorvastatin, simvastatin)
+- Antihypertensives: lower blood pressure (lisinopril, amlodipine, metoprolol)
+- Antidiabetics: control blood sugar (metformin, insulin, glipizide)
+
+Important notes:
+- Never stop prescription medications without consulting your doctor
+- Always inform your doctor about all medications and supplements you take
+- Drug interactions can be dangerous
+- Follow dosage instructions carefully

@@ -1,0 +1,37 @@
+# Render Deployment Configuration
+# This file tells Render how to deploy your Flask backend
+
+services:
+  - type: web
+    name: medical-chatbot-api
+    env: python
+    region: oregon
+    plan: free
+
+    # Root directory (where app.py lives)
+    rootDir: backend
+
+    # Install dependencies
+    buildCommand: pip install -r requirements.txt
+
+    # Start the server with Gunicorn (production-grade WSGI)
+    startCommand: gunicorn app:create_app() --workers 2 --bind 0.0.0.0:$PORT
+
+    # Environment variables (set these in Render dashboard)
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false  # Set manually in Render dashboard
+      - key: PINECONE_API_KEY
+        sync: false
+      - key: PINECONE_INDEX_NAME
+        value: medical-chatbot
+      - key: PINECONE_ENV
+        value: us-east-1
+      - key: FLASK_ENV
+        value: production
+      - key: OPENAI_MODEL
+        value: gpt-3.5-turbo
+      - key: LLM_TEMPERATURE
+        value: "0.3"
+      - key: LLM_MAX_TOKENS
+        value: "800"
