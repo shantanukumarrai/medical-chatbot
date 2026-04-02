@@ -24,7 +24,7 @@ pinecone-client>=5.0.0
 
 # PDF Loading
 pypdf==4.3.1
-unstructured==0.15.7
+unstructured>=0.10.0
 
 # Text Processing
 tiktoken==0.7.0
